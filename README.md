@@ -1,7 +1,13 @@
 📌 Demand Forecasting Project
+
+
 🔹 Project Overview
+
+
 This project focuses on monthly demand forecasting using a dataset of demand values from 2020–2021.
 The goal is to build models that predict future demand, helping businesses plan inventory, staffing, and logistics.
+
+
 I implemented multiple approaches:
 - Machine Learning Models: Linear Regression, Random Forest
 - Time-Series Models: ARIMA, Prophet
